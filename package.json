@@ -1,0 +1,27 @@
+{
+  "name": "gatery",
+  "version": "0.0.1",
+  "description": "A Simple Gate Management System",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanisirfan/gatery.git"
+  },
+  "keywords": [
+    "gate",
+    "management",
+    "windows"
+  ],
+  "author": "Muhammad Hanis Irfan Bin Mohd Zaid",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/hanisirfan/gatery/issues"
+  },
+  "homepage": "https://github.com/hanisirfan/gatery#readme",
+  "devDependencies": {
+    "electron": "^16.0.2"
+  }
+}
